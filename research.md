@@ -34,7 +34,7 @@ Describe the project. Link to ([Dasanayake *et al.* 2011](#phdpub)).
 
 #### Related publications
 
-- Pilar AV, Strasser R, McLean J, Quinn E, **Cyr N**, Hojjat H, Kottarampatel AH, Jardim A (2014). "Analysis of the *Leishmania* peroxin 7 interactions with peroxin 5, peroxin 14 and PTS2 ligands". *Biochem J* 460:273-282.
+- Pilar AV, Strasser R, McLean J, Quinn E, **Cyr N**, Hojjat H, Kottarampatel AH, Jardim A (2014). "Analysis of the *Leishmania* peroxin 7 interactions with peroxin 5, peroxin 14 and PTS2 ligands". *Biochem J* 460:273-282. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/24635481)
 
 - Dasanayake D, Richaud M, **Cyr N**, Caballero-Franco C, Pitroff S, Finn RM, Ausió J, Luo W, Donnenberg MS, Jardim A (2011). "The N-terminal amphipathic region of the *Escherichia coli* type III secretion system protein EspD is required for membrane insertion and effacement activity". *Mol Microbiol* 81:734-750. [(abstract)](http://www.ncbi.nlm.nih.gov/pubmed/21651628)
 
