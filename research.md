@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My research
+title: My Research
 subtitle: Why you'd want me to lead a research lab
 ---
 

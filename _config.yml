@@ -29,6 +29,7 @@ description: Structural Biologist | Infectious Diseases Research Scientist
 navbar-links:
   About Me: "aboutme"
   My research: "research"
+  Teaching: "teaching"
   External:
     - Pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Normand+Cyr"
     - Google Scholar: "https://scholar.google.ca/citations?user=kV5PwxkAAAAJ&hl=en"
