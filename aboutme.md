@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: My frosty side
+subtitle: My frosted side
 ---
 
 My name is Normand Cyr. Apart from being passionate for science, I enjoy the following things in life :
@@ -17,3 +17,5 @@ My name is Normand Cyr. Apart from being passionate for science, I enjoy the fol
   - Brewing (well... brewing indoor can be disastrous!)
 
 What else do you need?
+
+<img src="/img/winter-bike-ski.jpg" alt="Winter bike and cross-country ski combo" style="width:90%;display: block;margin-left:auto;margin-right:auto">
