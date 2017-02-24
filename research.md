@@ -16,11 +16,15 @@ Coming soon. ([Cyr *et al.* 2015](#postdocpub)).
 
 - **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/25918396)
 
+- Lecoq L, Raiola L, Chabot PR, **Cyr N**, Arseneault G, Legault P, Omichinski JG (2017). "Structural
+characterization of interactions between transactivation domain 1 of the p65 subunit of NF-κB and
+transcription regulatory factors". *Nucleic Acids Res*, in press.
+
 ### PhD work
 
 #### Leishmania
 
-*Leishmania*, and other kinetoplastids, compartmentalizes glycolysis and other vital metabolic pathways in the glycosome, a subcellular organelle that is evolutionary related to peroxisomes.  Previous studies have indicated that the impairments in the targeting of proteins to the glycosome can result in a lethal phenotype for these parasites.  Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target.  A key component of the glycosomal protein import machinery is the *L. donovani* PEX14, a membrane associated protein required for translocation of proteins across the glycosomal membrane ([Jardim *et al.* 2002](#phdpub)).  Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)).  Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment in common to PEX14 proteins ([Cyr *et al.* 2008](#phdpub)).  These studies will allow a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Cyr 2013](#phdthesispub)).  
+*Leishmania*, and other kinetoplastids, compartmentalizes glycolysis and other vital metabolic pathways in the glycosome, a subcellular organelle that is evolutionary related to peroxisomes.  Previous studies have indicated that the impairments in the targeting of proteins to the glycosome can result in a lethal phenotype for these parasites.  Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target.  A key component of the glycosomal protein import machinery is the *L. donovani* PEX14, a membrane associated protein required for translocation of proteins across the glycosomal membrane ([Jardim *et al.* 2002](#phdpub)).  Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)).  Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment in common to PEX14 proteins ([Cyr *et al.* 2008](#phdpub)).  These studies will allow a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).  
 
 #### Type III secretion system of enteropathogenic *E. coli*
 
@@ -29,6 +33,8 @@ Describe the project. Link to ([Dasanayake *et al.* 2011](#phdpub)).
 <a name="phdpub"></a>
 
 #### Related publications
+
+- Pilar AV, Strasser R, McLean J, Quinn E, **Cyr N**, Hojjat H, Kottarampatel AH, Jardim A (2014). "Analysis of the *Leishmania* peroxin 7 interactions with peroxin 5, peroxin 14 and PTS2 ligands". *Biochem J* 460:273-282.
 
 - Dasanayake D, Richaud M, **Cyr N**, Caballero-Franco C, Pitroff S, Finn RM, Ausió J, Luo W, Donnenberg MS, Jardim A (2011). "The N-terminal amphipathic region of the *Escherichia coli* type III secretion system protein EspD is required for membrane insertion and effacement activity". *Mol Microbiol* 81:734-750. [(abstract)](http://www.ncbi.nlm.nih.gov/pubmed/21651628)
 
@@ -58,7 +64,7 @@ My M.Sc. work was done under the supervision of Prof. John Sheppard in the depar
 
 #### Related publications
 
-- , **Cyr N\***, Strasser R, Blanchette, M, Sheppard JD, Jardim A (2016). "α,β-Dicarbonyl reduction is mediated by the *Saccharomyces* Old Yellow Enzyme". *FEMS Yeast Res* 16:fow059. (* equal contribution) [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/27400981)
+- van Bergen B*, **Cyr N\***, Strasser R, Blanchette, M, Sheppard JD, Jardim A (2016). "α,β-Dicarbonyl reduction is mediated by the *Saccharomyces* Old Yellow Enzyme". *FEMS Yeast Res* 16:fow059. (* equal contribution) [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/27400981)
 
 - **Cyr N**, Blanchette M, Price SP and Sheppard, JD (2007). "Vicinal diketone production and amino acid uptake by two active dry lager yeasts during beer fermentation". *J Am Soc Brew Chem* 65:138-144. [(abstract)](http://dx.doi.org/10.1094/ASBCJ-2007-0515-01)
 
@@ -69,3 +75,7 @@ My M.Sc. work was done under the supervision of Prof. John Sheppard in the depar
 #### MSc thesis
 
 - **Cyr N** (2006). *Effect of aeration strategy on the performance of a very high gravity continuous fuel ethanol fermentation process.* M.Sc. thesis, Department of Bioresource Engineering, McGill University. [(abstract)](http://digitool.library.mcgill.ca/R/F4YENNG1XGG4BUREAC9AYNE7TNXKVX33DJKJDUV9UD3MT9QL77-02090?func=dbin-jump-full&silo_library=GEN01&object_id=100789) [(PDF - 3.8 MB)](/pdf/CyrN_MScThesis.pdf)
+
+#### Other scientific publications
+
+- van Zandycke S, Ahlgren S, Bourdaudhui G, **Cyr N**, De Nicola R, Fujita A, Kelly G, Logsdon D, McLean D, Pachello C (2005). "Method for measurement of yeast vitality". *J Am Soc Brew Chem* 63:205-208.
