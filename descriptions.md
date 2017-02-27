@@ -1,6 +1,6 @@
 # Postdoc
 
-Rift Valley fever virus (RVFV) inhibits host transcription upon infection of its host by interacting with the mammalian p62 subunit of TFIIH. This interaction, mediated by a short linear motif found at the C-terminus of the virulence factor NSs, mimics the process by which certain nucleotide excision repair factors and transcription factors interact with p62. By hijacking these cellular processes, the interaction of RVFV NSs with the transcription machinery leads to the degradation of the latter and ultimately to a complete arrest of transcription. From an infectious agent point of view, such 
+Rift Valley fever virus (RVFV) inhibits host transcription upon infection of its host by interacting with the mammalian p62 subunit of TFIIH. This interaction, mediated by a short linear motif found at the C-terminus of the virulence factor NSs, mimics the process by which certain nucleotide excision repair factors and transcription factors interact with p62. By hijacking these cellular processes, the interaction of RVFV NSs with the transcription machinery leads to the degradation of the latter and ultimately to a complete arrest of transcription. From an infectious agent point of view, such
 
 
 Rift Valley fever virus (RVFV) is a single-stranded RNA virus capable of inducing fatal hemorrhagic fever in humans. A key component of RVFV virulence is its ability to form nuclear filaments through interactions between the viral nonstructural protein NSs and the host general transcription factor TFIIH.

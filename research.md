@@ -8,7 +8,11 @@ subtitle: Why you'd want me to lead a research lab
 
 ### Postdoctoral work
 
-Coming soon. ([Cyr *et al.* 2015](#postdocpub)).
+Rift Valley fever virus (RVFV) inhibits host transcription upon infection of its host by interacting with the mammalian p62 subunit of TFIIH. By hijacking this cellular process, the formation of the complex between NSs and p62-TFIIH leads to the degradation of the latter and ultimately to a complete arrest of transcription. From an infectious agent point of view, such dramatic effect has several advantages including impairing the transcription of genes involved in the type I interferon response to the viral infection. In the laboratory of [James Omichinski](http://biochimie.umontreal.ca/en/department/professors/james-g-omichinski/) at the Université de Montréal, we are using a structural biology approach to characterize molecularly how NSs interacts with the p62 subunit of TFIIH.
+
+In collaboration with the group of [Kylene Kehn-Hall](http://ncbid.cos.gmu.edu/faculty-profiles/kylene-kehn-hall/) from the National Center for Biodefense and Infectious Diseases (George Mason University, VA USA), our research have identified a short linear motif found at the C-terminus of the virulence factor NSs which is critical for the interaction with the hostp62 subunit of TFIIH. Using protein NMR and other biophysical techniques we have observed that the interaction mimics the process by which certain nucleotide excision repair factors and transcription factors interact with p62. Functional studies in RVFV-infected cells further show that the short linear motif is required for both nuclear filament formation and degradation of p62 and mediating the virulence of the pathogen ([Cyr *et al.* 2015](#postdocpub)).
+
+In a secondary project, we have performed a detailed atomic description of the interactions between the transactivation domain 1 of the p65 subunit of NF-κB and transcription regulatory factors, including the p62 subunit of TFIIH. This project enabled us to identify hydrophobic residues present in the transactivation domain to be key for the interaction with transcription regulatory factors and for they capability in activating gene transcription ([Lecoq *et al.* 2017](#postdocpub)).
 
 <a name="postdocpub"></a>
 
@@ -24,11 +28,13 @@ transcription regulatory factors". *Nucleic Acids Res*, in press.
 
 #### Leishmania
 
-*Leishmania*, and other kinetoplastids, compartmentalizes glycolysis and other vital metabolic pathways in the glycosome, a subcellular organelle that is evolutionary related to peroxisomes.  Previous studies have indicated that the impairments in the targeting of proteins to the glycosome can result in a lethal phenotype for these parasites.  Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target.  A key component of the glycosomal protein import machinery is the *L. donovani* PEX14, a membrane associated protein required for translocation of proteins across the glycosomal membrane ([Jardim *et al.* 2002](#phdpub)).  Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)).  Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment in common to PEX14 proteins ([Cyr *et al.* 2008](#phdpub)).  These studies will allow a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).  
+*Leishmania*, and other kinetoplastids, compartmentalizes glycolysis and other vital metabolic pathways in the glycosome, a subcellular organelle that is evolutionary related to peroxisomes.  Previous studies have indicated that the impairments in the targeting of proteins to the glycosome can result in a lethal phenotype for these parasites.  Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target.  In the laboratory of [Armando Jardim](https://www.mcgill.ca/parasitology/faculty/jardim), I studied a key component of the glycosomal protein import machinery is the *L. donovani* PEX14, a membrane associated protein required for translocation of proteins across the glycosomal membrane.
+
+Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)).  Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment in common to PEX14 proteins ([Cyr *et al.* 2008](#phdpub)).  These studies will allow a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).  
 
 #### Type III secretion system of enteropathogenic *E. coli*
 
-Describe the project. Link to ([Dasanayake *et al.* 2011](#phdpub)).
+I was also involved in a secondary project during my PhD which involved the assembly of the Type III secretion system in the enteropathogenic *E. coli* where we looked from a biophysical perspective at the interaction between the bacterial protein EspD and the phospholipids composing the host plasma membrane ([Dasanayake *et al.* 2011](#phdpub)).
 
 <a name="phdpub"></a>
 
@@ -42,8 +48,6 @@ Describe the project. Link to ([Dasanayake *et al.* 2011](#phdpub)).
 
 - **Cyr N**, Madrid KP, Strasser R, Aurousseau M, Finn R, Ausio J, Jardim A (2008). "*L. donovani* PEX14 undergoes a marked conformational change following association with PEX5". *J Biol Chem* 283:31488-31499. [(abstract)](http://www.ncbi.nlm.nih.gov/pubmed/18718908)
 
-- Jardim A, Rager N, Liu W, Ullman B (2002). "Peroxisomal targeting protein 14 (PEX14) from *Leishmania donovani*. Molecular, biochemical, and immunocytochemical characterization." *Mol Biochem Parasitol* 124:51-62. [(abstract)](http://www.ncbi.nlm.nih.gov/pubmed/12387850)
-
 <a name="phdthesispub"></a>
 
 #### PhD Thesis
@@ -52,7 +56,7 @@ Describe the project. Link to ([Dasanayake *et al.* 2011](#phdpub)).
 
 ### Previous work
 
-My M.Sc. work was done under the supervision of Prof. John Sheppard in the department of Bioresouce Engineering at McGill University. My project involved the investigation of various bioprocess parameters and their effect on the formation of metabolic by-products during fermentation. We looked at:
+My M.Sc. work was done under the supervision of Prof. [John Sheppard](https://fbns.ncsu.edu/faculty-directory/john-sheppard/) in the department of [Bioresouce Engineering](http://www.mcgill.ca/bioeng/home) at McGill University. My project involved the investigation of various bioprocess parameters and their effect on the formation of metabolic by-products during fermentation. We looked at:
 
 - Putative enzymes involved in the reduction of alpha,beta-dicarbonyl compounds by *Saccharomyces cerevisiae* ([van Bergen, Cyr *el al.* 2016](#mscpub); [van Bergen *et al.* 2006](#mscpub))
 
