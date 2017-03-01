@@ -42,6 +42,11 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+hr.small-light {
+  max-width: 100px;
+  margin: 15px auto;
+  border-radius: 3px;
+}
 
 .main-content {
   padding-top: 80px;
@@ -675,6 +680,38 @@ td.gutter {
   padding-top: 3px;
 }
 
+.front-blurb {
+  text-align: justify;
+}
+.hashtag-blurb {
+  text-align: center;
+  font-weight: 700;
+}
+
+.right-side {
+  float: right;
+  max-width: 25%;
+}
+.right-side-medium {
+  float: right;
+  max-width: 33%;
+}
+.right-side-larger {
+  float: right;
+  max-width: 50%;
+}
+.center {
+  display: block;
+  float: none;
+  max-width: 75%;
+  margin: auto;
+}
+.center-small {
+  display: block;
+  float: none;
+  max-width: 50%;
+  margin: auto;
+}
 /* --- Social media sharing section --- */
 
 #social-share-section {

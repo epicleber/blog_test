@@ -4,12 +4,16 @@ title: About me
 subtitle: My frosted side
 ---
 
-My name is Normand Cyr. Apart from being passionate for science, I enjoy the following things in life :
+![Hiking to the top of Mt. Hight (2015, White Mountains National Forest NH)](/img/hiking.jpg){: .center}
+
+Apart from being passionate for science, I enjoy the following things in life :
 
 - Sports :
   - Urban cycling (has become a daily mind purgatory)
   - Cross-country ski
   - Trail and mountain running
+
+<hr style="border-width: 0px;">
 
 - Outdoor activities :
   - Camping (the best way to escape the craziness of the city)
