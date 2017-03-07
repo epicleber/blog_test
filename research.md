@@ -8,9 +8,11 @@ subtitle: Why you'd want me to lead a research lab
 
 ### Postdoctoral work
 
-Upon infection of its host, Rift Valley fever virus (RVFV) inhibits transcription by interacting with the mammalian p62 subunit of TFIIH. Hijacking of cellular processes is afforded by the formation of a complex between RVFV NSs protein and p62-TFIIH, which leads to the degradation of the complex and complete arrest of transcription. From an infectious agent perspective, such a dramatic effect procures several advantages, notably the abrogration of transcription of genes involved in the type I interferon response to the viral infection. In the [James Omichinski] (http://biochimie.umontreal.ca/en/department/professors/james-g-omichinski/) laboratory at Université de Montréal, we use a structural biology approach to characterize the molecular basis for the NSs interaction with the p62 subunit of TFIIH.
+![NSsCT-Tfb1PH complex](/img/structure-zoom.png){: .right-side}
 
-In collaboration with [Kylene Kehn-Hall]'s group (http://ncbid.cos.gmu.edu/faculty-profiles/kylene-kehn-hall/) at the National Center for Biodefense and Infectious Diseases (George Mason University, VA USA), our research has identified a short linear motif found at the C-terminus of the virulence factor NSs which is critical for the interaction with the host p62 subunit of TFIIH. Using protein NMR and other biophysical techniques, we have discovered that the interaction mimics the process by which certain nucleotide excision repair factors and transcription factors interact with p62. Further, functional studies in RVFV-infected cells show that the short linear motif is required for both nuclear filament formation and degradation of p62 and mediating the virulence of the pathogen ([Cyr *et al.* 2015](#postdocpub)).
+Upon infection of its host, Rift Valley fever virus (RVFV) inhibits transcription by interacting with the mammalian p62 subunit of TFIIH. Hijacking of cellular processes is afforded by the formation of a complex between RVFV NSs protein and p62-TFIIH, which leads to the degradation of the complex and complete arrest of transcription. From an infectious agent perspective, such a dramatic effect procures several advantages, notably the abrogration of transcription of genes involved in the type I interferon response to the viral infection. In the [James Omichinski](http://biochimie.umontreal.ca/en/department/professors/james-g-omichinski/) laboratory at Université de Montréal, we use a structural biology approach to characterize the molecular basis for the NSs interaction with the p62 subunit of TFIIH.
+
+In collaboration with [Kylene Kehn-Hall](http://ncbid.cos.gmu.edu/faculty-profiles/kylene-kehn-hall/)'s group at the National Center for Biodefense and Infectious Diseases (George Mason University, VA USA), our research has identified a short linear motif found at the C-terminus of the virulence factor NSs which is critical for the interaction with the host p62 subunit of TFIIH. Using protein NMR and other biophysical techniques, we have discovered that the interaction mimics the process by which certain nucleotide excision repair factors and transcription factors interact with p62. Further, functional studies in RVFV-infected cells show that the short linear motif is required for both nuclear filament formation and degradation of p62 and mediating the virulence of the pathogen ([Cyr *et al.* 2015](#postdocpub)).
 
 In a secondary project, we have performed a detailed atomic description of the interactions between the transactivation domain 1 of the p65 subunit of NF-κB and transcription regulatory factors, including the p62 subunit of TFIIH. We identified key hydrophobic residues in the transactivation domain implicated in interactions with transcription regulatory factors and capable of activating gene transcription ([Lecoq *et al.* 2017](#postdocpub)).
 
@@ -18,19 +20,23 @@ In a secondary project, we have performed a detailed atomic description of the i
 
 #### Related publications
 
-- **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/25918396)
+- **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/25918396), PDB [2N0Y](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N0Y))
+  - Radio interview on Voice of America Afrique ([Carrefour Science et Santé](http://www.voaafrique.com/a/des-chercheurs-auraient-detecte-un-talon-dachille-de-virus-a-fievres-hemorragiques/2772872.html))
+  - Article in [MedicalXpress](https://medicalxpress.com/news/2015-05-rift-valley-fever-virus-proteins.html), [Newswise](http://www.newswise.com/articles/damming-and-damning-haemorrhagic-diseases), [HealthCanal](http://www.healthcanal.com/infections/63480-damming-and-damning-haemorrhagic-diseases.html) and [UdeM news](http://medecine.umontreal.ca/2015/05/11/endiguer-les-fievres-hemorragiques-une-fois-pour-toutes/).
 
 - Lecoq L, Raiola L, Chabot PR, **Cyr N**, Arseneault G, Legault P, Omichinski JG (2017). "Structural
 characterization of interactions between transactivation domain 1 of the p65 subunit of NF-κB and
-transcription regulatory factors". *Nucleic Acids Res*, in press.
+transcription regulatory factors". *Nucleic Acids Res*, in press. (PDB [2N22](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N22) and [5U4K](http://www.rcsb.org/pdb/explore/explore.do?structureId=5U4K))
 
 ### PhD work
 
-#### Leishmania
+#### *Leishmania*
 
-*Leishmania*, and other kinetoplastids, compartmentalize glycolysis and other vital metabolic pathways in the glycosome - a subcellular organelle that is evolutionary related to peroxisomes.  Previous studies have indicated that disturbance in the targeting of proteins to the glycosome results in a lethal phenotype for these parasites. Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target. During my doctoral studies with [Dr. Armando Jardim](https://www.mcgill.ca/parasitology/faculty/jardim), I uncovered a key component of the glycosomal protein import machinery, *L. donovani* PEX14, a membrane-associated protein required for translocation of proteins across the glycosomal membrane.
+*Leishmania*, and other kinetoplastids, compartmentalize glycolysis and other vital metabolic pathways in the glycosome - a subcellular organelle that is evolutionary related to peroxisomes. Previous studies have indicated that disturbance in the targeting of proteins to the glycosome results in a lethal phenotype for these parasites. Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target. During my doctoral studies with [Dr. Armando Jardim](https://www.mcgill.ca/parasitology/faculty/jardim), I uncovered a key component of the glycosomal protein import machinery, *L. donovani* PEX14, a membrane-associated protein required for translocation of proteins across the glycosomal membrane.
 
-Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)).  Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment, common to other PEX14 proteins ([Cyr *et al.* 2008](#phdpub)). These studies provide a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).  
+Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)). Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment, common to other PEX14 proteins ([Cyr *et al.* 2008](#phdpub)). These studies provide a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).
+
+![Model of the glycosomal proteins import machinery](/img/glycosome-import-model.png){: .center-small}
 
 #### Type III secretion system of enteropathogenic *E. coli*
 
@@ -59,6 +65,8 @@ I was also involved in a secondary project during my PhD which involved the asse
 My M.Sc. work was done under the supervision of Prof. [John Sheppard](https://fbns.ncsu.edu/faculty-directory/john-sheppard/) in the department of [Bioresouce Engineering](http://www.mcgill.ca/bioeng/home) at McGill University. My project involved the investigation of various bioprocess parameters and their effect on the formation of metabolic by-products during fermentation. We investigated:
 
 - Putative enzymes involved in the reduction of alpha,beta-dicarbonyl compounds by *Saccharomyces cerevisiae* ([van Bergen, Cyr *el al.* 2016](#mscpub); [van Bergen *et al.* 2006](#mscpub))
+
+![OYE enzymes are involved in the reduction of diacetyl during beer fermentation](/img/diacetyl-oye.png){: .center}
 
 - Usage of industrial drying processes in the manufacturing of ale and lager Brewer's dry yeast and their implication in amino acid metabolism and vicinal diketone formation profile in *Saccharomyces* during industrial beer fermentation ([Cyr *et al.* 2007](#mscpub)).
 
