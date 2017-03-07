@@ -25,7 +25,7 @@ Over the summer 2012, I played the role of teacher's assistant for a **Bioinform
 
 #### Molecular Biology
 
-Over the winter 2016 semester, I was hired to teach a full semester course in **Molecular Biology** at the [Université Sainte-Anne](https://www.usainteanne.ca/departement-des-sciences) (Sainte-Anne, NS Canada), a French-speaking University based in Nova Scotia. I had the opportunity to teach the course remotely. Teaching remotely presented several challenges, including the inability to receive tactile feedback from students and to observe and respond accordingly to subtle body language cues from students, helped develop my scientific oratory skills. Despite my only contact with students being virtual, the course was successful and I received positive feedback.
+Over the winter 2016 semester, I was hired to teach a full semester course in **Molecular Biology** at the [Université Sainte-Anne](https://www.usainteanne.ca/departement-des-sciences) (Sainte-Anne, NS Canada), a French-speaking University based in Nova Scotia. I had the opportunity to teach the course remotely. Teaching remotely presented several challenges, including the inability to receive tactile feedback from students and to observe and respond accordingly to subtle body language cues from students, which helped develop my scientific oratory skills. Despite my only contact with students being virtual, the course was successful and I received positive feedback.
 
 #### Teacher's assistant
 
