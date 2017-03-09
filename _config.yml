@@ -50,6 +50,7 @@ author:
   name: Normand Cyr
   email: "normand.cyr@umontreal.ca"
 #  facebook: yourname  # eg. daattali
+  researchgate: Normand_Cyr
   github: normcyr    # eg. daattali
   twitter: lebiochimiste   # eg. daattali
 #  reddit: yourname    # eg. daattali
@@ -60,6 +61,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
+  researchgate: true
   email: true
   twitter: true
   github: true
