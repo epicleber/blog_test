@@ -4,11 +4,11 @@
 # baseurl is the website's URL without the hostname
 
 # build options
-#destination: /var/www/html/normandcyr.com/public_html/
+destination: /var/www/html/normandcyr.com/public_html/
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-#url: "https://www.normandcyr.com"
-url: "http://localhost:4000"
+url: "https://www.normandcyr.com"
+#url: "http://localhost:4000"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -49,8 +49,8 @@ avatar: "/img/avatar-beer.jpg"
 author:
   name: Normand Cyr
   email: "normand.cyr@umontreal.ca"
-#  facebook: yourname  # eg. daattali
   researchgate: Normand_Cyr
+#  facebook: yourname  # eg. daattali
   github: normcyr    # eg. daattali
   twitter: lebiochimiste   # eg. daattali
 #  reddit: yourname    # eg. daattali
@@ -60,8 +60,8 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
   researchgate: true
+  facebook: false
   email: true
   twitter: true
   github: true
