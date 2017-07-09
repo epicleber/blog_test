@@ -5,10 +5,11 @@
 
 # build options
 destination: /var/www/html/normandcyr.com/public_html/
+#destination: _site/
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://www.normandcyr.com"
-#url: "http://localhost:4000"
+#url: "http://localhost"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -18,10 +19,11 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Normand Cyr
+title: Normand Cyr, PhD
 
 # Short description of your site
-description: Structural Biologist | Infectious Diseases Research Scientist
+description: Structural biologist and infectious diseases research scientist involved in academic research.
+#description: Structural Biologist | Infectious Diseases Research Scientist
 
 # --- Navigation bar options --- #
 
@@ -193,6 +195,23 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
+
+webmaster_verifications:
+  google: google7ef9c8bae7c4c8f9
+
+seo:
+    name: Normand Cyr, PhD - Structural biologist and infectious diseases scientist
+    type: person
+
+social:
+  name: Normand Cyr
+  links:
+    - https://twitter.com/lebiochimiste
+    - https://www.linkedin.com/in/normcyr
+    - https://www.researchgate.net/profile/Normand_Cyr
+    - https://github.com/normcyr
+
+lang: en_CA
 
 gems:
   - jekyll-paginate
