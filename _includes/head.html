@@ -7,9 +7,20 @@
 
   <meta name="author" content="{{ site.author.name }}" />
 
+
+  {% if page.meta-description %}
+  <meta name="description" content="{{ page.meta-description }}">
+  {% elsif page.subtitle %}
+  <meta name="description" content="{{ page.subtitle }}">
+  {% else %}
+  <meta name="description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}">
+  {% endif %}
+
+<!-- old config
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
+ -->
 
   <meta name="keywords" content="structural biology, infectious diseases, scientific research, academic research, research, science, biochemistry, parasitology, NMR, X-ray, protein structure, Leishmania, RVFV, Rift Valley fever virus">
 
