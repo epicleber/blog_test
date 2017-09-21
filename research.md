@@ -16,6 +16,12 @@ In collaboration with [Kylene Kehn-Hall](http://ncbid.cos.gmu.edu/faculty-profil
 
 In a secondary project, we have performed a detailed atomic description of the interactions between the transactivation domain 1 of the p65 subunit of NF-κB and transcription regulatory factors, including the p62 subunit of TFIIH. We identified key hydrophobic residues in the transactivation domain implicated in interactions with transcription regulatory factors and capable of activating gene transcription ([Lecoq *et al.* 2017](#postdocpub)).
 
+#### Media appearances
+
+- ["MacCHESS launches international data collection"](http://news.chess.cornell.edu/articles/2017/Schuller170903.html), *CHESS News* 2017.
+- ["Des chercheurs auraient détecté un « talon d’Achille de virus à fièvres hémorragiques »"](https://www.voaafrique.com/a/des-chercheurs-auraient-detecte-un-talon-dachille-de-virus-a-fievres-hemorragiques/2772872.html), *Voice of America Afrique* 2015.
+- ["Rift Valley fever virus' proteins imitate human DNA repair factors"](https://medicalxpress.com/news/2015-05-rift-valley-fever-virus-proteins.html), *Medical Xpress* 2015.
+
 <a name="postdocpub"></a>
 
 #### Related publications
