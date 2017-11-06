@@ -32,7 +32,7 @@ In a secondary project, we have performed a detailed atomic description of the i
 
 - Lecoq L, Raiola L, Chabot PR, **Cyr N**, Arseneault G, Legault P, Omichinski JG (2017). "Structural
 characterization of interactions between transactivation domain 1 of the p65 subunit of NF-κB and
-transcription regulatory factors". *Nucleic Acids Res*, [in press](https://doi.org/10.1093/nar/gkx146). (PDB [2N22](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N22) and [5U4K](http://www.rcsb.org/pdb/explore/explore.do?structureId=5U4K))
+transcription regulatory factors". *Nucleic Acids Res* 45:5564-76. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/28334776). (PDB [2N22](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N22) and [5U4K](http://www.rcsb.org/pdb/explore/explore.do?structureId=5U4K))
 
 ### PhD work
 
