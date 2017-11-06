@@ -21,14 +21,13 @@ In a secondary project, we have performed a detailed atomic description of the i
 - ["MacCHESS launches international data collection"](http://news.chess.cornell.edu/articles/2017/Schuller170903.html), *CHESS News* 2017.
 - ["Des chercheurs auraient détecté un « talon d’Achille de virus à fièvres hémorragiques »"](https://www.voaafrique.com/a/des-chercheurs-auraient-detecte-un-talon-dachille-de-virus-a-fievres-hemorragiques/2772872.html), *Voice of America Afrique* 2015.
 - ["Rift Valley fever virus' proteins imitate human DNA repair factors"](https://medicalxpress.com/news/2015-05-rift-valley-fever-virus-proteins.html), *Medical Xpress* 2015.
+- [Endiguer les fièvres hemorragiques une fois pour toutes](http://medecine.umontreal.ca/2015/05/11/endiguer-les-fievres-hemorragiques-une-fois-pour-toutes/), *UdeM Nouvelles* 2015.
 
 <a name="postdocpub"></a>
 
 #### Related publications
 
 - **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. ([abstract](https://www.ncbi.nlm.nih.gov/pubmed/25918396), related PDB entry: [2N0Y](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N0Y))
-  - Radio interview on Voice of America Afrique ([Carrefour Science et Santé](http://www.voaafrique.com/a/des-chercheurs-auraient-detecte-un-talon-dachille-de-virus-a-fievres-hemorragiques/2772872.html))
-  - Article in [MedicalXpress](https://medicalxpress.com/news/2015-05-rift-valley-fever-virus-proteins.html), [Newswise](http://www.newswise.com/articles/damming-and-damning-haemorrhagic-diseases), [HealthCanal](http://www.healthcanal.com/infections/63480-damming-and-damning-haemorrhagic-diseases.html) and [UdeM news](http://medecine.umontreal.ca/2015/05/11/endiguer-les-fievres-hemorragiques-une-fois-pour-toutes/).
 
 - Lecoq L, Raiola L, Chabot PR, **Cyr N**, Arseneault G, Legault P, Omichinski JG (2017). "Structural
 characterization of interactions between transactivation domain 1 of the p65 subunit of NF-κB and
