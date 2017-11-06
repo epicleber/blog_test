@@ -26,13 +26,13 @@ In a secondary project, we have performed a detailed atomic description of the i
 
 #### Related publications
 
-- **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/25918396), PDB [2N0Y](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N0Y))
+- **Cyr N**, de la Fuente C, Lecoq L, Guendel I, Chabot PR, Kehn-Hall K, Omichinski JG (2015). "A ΩXaV motif in the Rift Valley fever virus NSs protein is essential for degrading p62, forming nuclear filaments and virulence". *Proc Natl Acad Sci USA* 112:6021-6026. ([abstract](https://www.ncbi.nlm.nih.gov/pubmed/25918396), related PDB entry: [2N0Y](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N0Y))
   - Radio interview on Voice of America Afrique ([Carrefour Science et Santé](http://www.voaafrique.com/a/des-chercheurs-auraient-detecte-un-talon-dachille-de-virus-a-fievres-hemorragiques/2772872.html))
   - Article in [MedicalXpress](https://medicalxpress.com/news/2015-05-rift-valley-fever-virus-proteins.html), [Newswise](http://www.newswise.com/articles/damming-and-damning-haemorrhagic-diseases), [HealthCanal](http://www.healthcanal.com/infections/63480-damming-and-damning-haemorrhagic-diseases.html) and [UdeM news](http://medecine.umontreal.ca/2015/05/11/endiguer-les-fievres-hemorragiques-une-fois-pour-toutes/).
 
 - Lecoq L, Raiola L, Chabot PR, **Cyr N**, Arseneault G, Legault P, Omichinski JG (2017). "Structural
 characterization of interactions between transactivation domain 1 of the p65 subunit of NF-κB and
-transcription regulatory factors". *Nucleic Acids Res* 45:5564-76. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/28334776). (PDB [2N22](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N22) and [5U4K](http://www.rcsb.org/pdb/explore/explore.do?structureId=5U4K))
+transcription regulatory factors". *Nucleic Acids Res* 45:5564-76. ([abstract](https://www.ncbi.nlm.nih.gov/pubmed/28334776), related PDB entries: [2N22](http://www.rcsb.org/pdb/explore/explore.do?structureId=2N22) and [5U4K](http://www.rcsb.org/pdb/explore/explore.do?structureId=5U4K))
 
 ### PhD work
 
