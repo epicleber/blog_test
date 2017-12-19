@@ -39,7 +39,9 @@ transcription regulatory factors". *Nucleic Acids Res* 45:5564-76. ([abstract](h
 
 *Leishmania*, and other kinetoplastids, compartmentalize glycolysis and other vital metabolic pathways in the glycosome - a subcellular organelle that is evolutionary related to peroxisomes. Previous studies have indicated that disturbance in the targeting of proteins to the glycosome results in a lethal phenotype for these parasites. Consequently the glycosome biogenesis machinery consists of an attractive therapeutic target. During my doctoral studies with [Dr. Armando Jardim](https://www.mcgill.ca/parasitology/faculty/jardim), I uncovered a key component of the glycosomal protein import machinery, *L. donovani* PEX14, a membrane-associated protein required for translocation of proteins across the glycosomal membrane.
 
-Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)). Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment, common to other PEX14 proteins ([Cyr *et al.* 2008](#phdpub)). These studies provide a more fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).
+Quaternary structure analysis of LdPEX14 revealed that this protein forms a large oligomeric complex. Domain mapping showed that elimination of a hydrophobic region and a coiled-coil motif were necessary to disrupt oligomer formation ([Cyr *et al.* 2008](#phdpub)). Moreover, calorimetry, intrinsic fluorescence, circular dichroism and analytical ultracentrifugation experiments showed that binding of LdPEX5 caused a dramatic conformational change in the LdPEX14 complex that was accompanied by a reorganization of a hydrophobic segment, common to other PEX14 proteins ([Cyr *et al.* 2008](#phdpub)).
+
+To elucidate the role of this hydrophobic segment of LdPEX14, I speculated on its role in glycosomal membrane anchoring. Protein-phospholipid interactions studies were initiated by the determination of the phospholipid composition of the *L. donovani* glycosomal membrane. Using large unilamellar vesicles (LUVs), we observed that the LdPEX14 membrane binding activity was dependent on the hydrophobic segment, predicted to form a transmembrane helix within residues 154-174. Monolayer experiments showed that the incorporation of phosphatidylglycerol and phospholipids with unsaturated fatty acids, facilitated the penetration of LdPEX14 into biological membranes [Cyr2018](#phdpub). These studies provide a fundamental understanding of the glycosome biogenesis machinery and its interaction with the glycosomal membrane ([Pilar 2014](#phdpub), [Cyr 2013](#phdthesispub)).
 
 ![Model of the glycosomal proteins import machinery](/img/glycosome-import-model.png){: .center-small}
 
@@ -50,6 +52,8 @@ I was also involved in a secondary project during my PhD which involved the asse
 <a name="phdpub"></a>
 
 #### Related publications
+
+- **Cyr N**, Smith TK, Boisselier E, Leroux LP, Kotarampatel AH, Davidsen A, Salesse C, Jardim A (2018). "The hydrophobic region of the Leishmania peroxin 14 – requirements for association with a glycosome mimetic membrane". *Biochem J*, accepted for publication.
 
 - Pilar AV, Strasser R, McLean J, Quinn E, **Cyr N**, Hojjat H, Kottarampatel AH, Jardim A (2014). "Analysis of the *Leishmania* peroxin 7 interactions with peroxin 5, peroxin 14 and PTS2 ligands". *Biochem J* 460:273-282. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/24635481)
 
