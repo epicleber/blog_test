@@ -53,7 +53,7 @@ I was also involved in a secondary project during my PhD which involved the asse
 
 #### Related publications
 
-- **Cyr N**, Smith TK, Boisselier E, Leroux LP, Kotarampatel AH, Davidsen A, Salesse C, Jardim A (2018). "The hydrophobic region of the Leishmania peroxin 14 – requirements for association with a glycosome mimetic membrane". *Biochem J*, accepted for publication. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/29259081)
+- **Cyr N**, Smith TK, Boisselier E, Leroux LP, Kotarampatel AH, Davidsen A, Salesse C, Jardim A (2018). "The hydrophobic region of the Leishmania peroxin 14 – requirements for association with a glycosome mimetic membrane". *Biochem J*, 475:511-529. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/29259081)
 
 - Pilar AV, Strasser R, McLean J, Quinn E, **Cyr N**, Hojjat H, Kottarampatel AH, Jardim A (2014). "Analysis of the *Leishmania* peroxin 7 interactions with peroxin 5, peroxin 14 and PTS2 ligands". *Biochem J* 460:273-282. [(abstract)](https://www.ncbi.nlm.nih.gov/pubmed/24635481)
 
