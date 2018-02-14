@@ -11,3 +11,5 @@ _posts/
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+_includes/gtm_head-old.html
